@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+}
+
+.h1-w{
+    color: white;
+    font-style: normal;
+}
+
+.h1-g{
+    color:#4ADF86;
+    font-style: normal;
+}
+
+button{
+    background-color: #10B981;
+}
+
+.ps-bg1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    background-color: #273549;
+}
+
+.ps-bg2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    background-color: #273549;
+}
+
+p{
+    color: #55F991;
+}
+
+.gnt-btn{
+    color: white;
+    font-family: 'Inter';
+    
+}
